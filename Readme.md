@@ -54,6 +54,8 @@
 
 [Shellcoding in Python’s serialisation format](https://media.blackhat.com/bh-us-11/Slaviero/BH_US_11_Slaviero_Sour_Pickles_WP.pdf)
 
+[PyCodeInjection代码注入实验环境](https://github.com/sethsec/PyCodeInjection)
+
 
 
 ### 代码审计
