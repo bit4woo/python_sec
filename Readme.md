@@ -66,6 +66,10 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [廖新喜大佬的python代码审计工具](https://github.com/shengqi158/pyvulhunter)
 
+[来自openstack安全团队的python代码静态审计工具](https://github.com/openstack/bandit)
+
+[来自openstack安全团队的python代码静态审计工具2](https://github.com/openstack/syntribos)
+
 
 
 ### Django相关
