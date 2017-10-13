@@ -7,10 +7,7 @@
 	
 	2.标准库危险模块
 	os
-		os.popen() or subprocess.Popen(), and subprocess.check_output()
-	sys
 	subprocess
-		subprocess.call(user_input, shell=True) : popen, subprocess.call等
 	commands
 	
 	3.危险第三方库
@@ -58,6 +55,8 @@
 
 
 
+
+
 ### 代码审计
 
 [Python安全编码和代码审计](http://xxlegend.com/2015/07/30/Python%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E5%92%8C%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/)
@@ -67,6 +66,12 @@ https://xianzhi.aliyun.com/forum/read/302.html
 https://xianzhi.aliyun.com/forum/read/301.html
 https://xianzhi.aliyun.com/forum/read/300.html
 https://xianzhi.aliyun.com/forum/read/274.html
+
+[Dangerous Python Functions, Part 1](https://www.kevinlondon.com/2015/07/26/dangerous-python-functions.html)
+
+[Dangerous Python Functions, Part 2](https://www.kevinlondon.com/2015/08/15/dangerous-python-functions-pt2.html)
+
+[Dangerous Python Functions, Part 3](https://www.kevinlondon.com/2017/01/30/dangerous-python-functions-pt3.html)
 
 [廖新喜大佬的python代码审计工具](https://github.com/shengqi158/pyvulhunter)
 
@@ -163,3 +168,5 @@ https://github.com/smartFlash/pySecurity
 [DEFENCELY CLARIFIES PYTHON OBJECT INJECTION EXPLOITATION](https://defencely.com/blog/defencely-clarifies-python-object-injection-exploitation/)
 
 [OWASP Python Security Project](https://github.com/ebranca/owasp-pysec)
+
+[Escaping a Python sandbox with a memory corruption bug](https://hackernoon.com/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5)
