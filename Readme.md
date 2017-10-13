@@ -88,6 +88,10 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [从Pwnhub诞生聊Django安全编码](https://www.leavesongs.com/PYTHON/django-coding-experience-from-pwnhub.html)
 
+[python和django的目录遍历漏洞(任意文件读取)](http://www.lijiejie.com/python-django-directory-traversal/)
+
+[新型任意文件读取漏洞的研究](https://www.leavesongs.com/PENETRATION/arbitrary-files-read-via-static-requests.html)
+
 
 
 ### package钓鱼
@@ -111,6 +115,8 @@ https://www.pytosquatting.org/
 [谈一谈如何在Python开发中拒绝SSRF漏洞](https://www.leavesongs.com/PYTHON/defend-ssrf-vulnerable-in-python.html)
 
 [Python安全 - 从SSRF到命令执行惨案](https://www.leavesongs.com/PENETRATION/getshell-via-ssrf-and-redis.html)
+
+[Splash SSRF 到获取内网服务器 ROOT 权限](https://xianzhi.aliyun.com/forum/read/1872.html)
 
 
 
