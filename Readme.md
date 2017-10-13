@@ -50,6 +50,8 @@
 
 [Python PyYAML反序列化漏洞实验和payload构造](http://www.code2sec.com/2017/09/22/python-pyyaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%AE%9E%E9%AA%8C%E5%92%8Cpayload%E6%9E%84%E9%80%A0/)
 
+[Exploiting Python Deserialization Vulnerabilities](https://crowdshield.com/blog.php?name=exploiting-python-deserialization-vulnerabilities)
+
 
 
 ### 代码审计
@@ -62,15 +64,15 @@ https://xianzhi.aliyun.com/forum/read/301.html
 https://xianzhi.aliyun.com/forum/read/300.html
 https://xianzhi.aliyun.com/forum/read/274.html
 
+[廖新喜大佬的python代码审计工具](https://github.com/shengqi158/pyvulhunter)
 
 
-### python web 框架
+
+### Django相关
 
 [Django debug page XSS漏洞（CVE-2017-12794）分析](https://www.leavesongs.com/PENETRATION/django-debug-page-xss.html)
 
 [Django DeleteView without confirmation template, but with CSRF attack](https://www.leavesongs.com/PYTHON/django-deleteView-without-confirmation-template.html)
-
-[谈一谈如何在Python开发中拒绝SSRF漏洞](https://www.leavesongs.com/PYTHON/defend-ssrf-vulnerable-in-python.html)
 
 [Django安全机制](http://xxlegend.com/2015/04/01/Django%E5%AE%89%E5%85%A8%E6%9C%BA%E5%88%B6/)
 
@@ -82,6 +84,10 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [Python 格式化字符串漏洞（Django为例）](https://www.leavesongs.com/PENETRATION/python-string-format-vulnerability.html)
 
+[Django 安全最佳实践](http://www.atjiang.com/2scoopsdjango1.8-26-security-best-practices/)
+
+[从Pwnhub诞生聊Django安全编码](https://www.leavesongs.com/PYTHON/django-coding-experience-from-pwnhub.html)
+
 
 
 ### package钓鱼
@@ -89,6 +95,8 @@ https://xianzhi.aliyun.com/forum/read/274.html
 [Package 钓鱼](https://paper.seebug.org/311/)
 
 [被忽视的攻击面：Python package 钓鱼](https://paper.seebug.org/326/)
+
+https://www.pytosquatting.org/
 
 
 
@@ -98,19 +106,27 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 
 
+### SSRF
+
+[谈一谈如何在Python开发中拒绝SSRF漏洞](https://www.leavesongs.com/PYTHON/defend-ssrf-vulnerable-in-python.html)
+
+[Python安全 - 从SSRF到命令执行惨案](https://www.leavesongs.com/PENETRATION/getshell-via-ssrf-and-redis.html)
+
+
+
 ### 其他
 
 [如何判断目标站点是否为Django开发](https://www.leavesongs.com/PENETRATION/detect-django.html)
 
 [Supervisord远程命令执行漏洞（CVE-2017-11610）](https://www.leavesongs.com/PENETRATION/supervisord-RCE-CVE-2017-11610.html)
 
-[Python安全 - 从SSRF到命令执行惨案](https://www.leavesongs.com/PENETRATION/getshell-via-ssrf-and-redis.html)
-
-[从Pwnhub诞生聊Django安全编码](https://www.leavesongs.com/PYTHON/django-coding-experience-from-pwnhub.html)
-
 [python富文本XSS过滤器](https://www.leavesongs.com/PYTHON/python-xss-filter.html)
 
 [基于mezzanine的攻防比赛环境搭建及XXE漏洞构造/](http://xxlegend.com/2016/04/01/%E5%9F%BA%E4%BA%8Emezzanine%E7%9A%84%E6%94%BB%E9%98%B2%E6%AF%94%E8%B5%9B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%8F%8AXXE%E6%BC%8F%E6%B4%9E%E6%9E%84%E9%80%A0/)
+
+[Python Waf黑名单过滤下的一些Bypass思路](http://www.0aa.me/index.php/archives/123/)
+
+[Pwnhub Web题Classroom题解与分析](https://www.leavesongs.com/PENETRATION/pwnhub-web-classroom-django-sql-injection.html)
 
 
 
@@ -122,3 +138,12 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [Python多线程端口扫描工具](https://www.leavesongs.com/PYTHON/PortScanner.html)
 
+[Python JSON Fuzzer: PyJFuzz](https://n0where.net/python-json-fuzzer-pyjfuzz/)
+
+https://github.com/smartFlash/pySecurity
+
+
+
+### 对象注入
+
+[DEFENCELY CLARIFIES PYTHON OBJECT INJECTION EXPLOITATION](https://defencely.com/blog/defencely-clarifies-python-object-injection-exploitation/)
