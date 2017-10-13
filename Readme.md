@@ -52,6 +52,8 @@
 
 [Exploiting Python Deserialization Vulnerabilities](https://crowdshield.com/blog.php?name=exploiting-python-deserialization-vulnerabilities)
 
+[Shellcoding in Python’s serialisation format](https://media.blackhat.com/bh-us-11/Slaviero/BH_US_11_Slaviero_Sour_Pickles_WP.pdf)
+
 
 
 ### 代码审计
@@ -154,6 +156,8 @@ https://github.com/smartFlash/pySecurity
 
 
 
-### 对象注入
+### 对象注入、底层安全
 
 [DEFENCELY CLARIFIES PYTHON OBJECT INJECTION EXPLOITATION](https://defencely.com/blog/defencely-clarifies-python-object-injection-exploitation/)
+
+[OWASP Python Security Project](https://github.com/ebranca/owasp-pysec)
