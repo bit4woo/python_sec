@@ -79,6 +79,8 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [来自openstack安全团队的python代码静态审计工具2](https://github.com/openstack/syntribos)
 
+[代码审计工具pyt](https://github.com/python-security/pyt)
+
 
 
 ### Django相关
@@ -146,6 +148,8 @@ https://www.pytosquatting.org/
 [Python Waf黑名单过滤下的一些Bypass思路](http://www.0aa.me/index.php/archives/123/)
 
 [Pwnhub Web题Classroom题解与分析](https://www.leavesongs.com/PENETRATION/pwnhub-web-classroom-django-sql-injection.html)
+
+[Programming Secure Web Applications in Python](https://www.thoughtco.com/programming-secure-web-applications-2813531)
 
 
 
