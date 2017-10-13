@@ -73,6 +73,8 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [Dangerous Python Functions, Part 3](https://www.kevinlondon.com/2017/01/30/dangerous-python-functions-pt3.html)
 
+[记一下PythonWeb代码审计应该注意的地方](http://blog.neargle.com/2016/07/25/log-of-simple-code-review-about-python-base-webapp/)
+
 [廖新喜大佬的python代码审计工具](https://github.com/shengqi158/pyvulhunter)
 
 [来自openstack安全团队的python代码静态审计工具](https://github.com/openstack/bandit)
@@ -135,6 +137,16 @@ https://www.pytosquatting.org/
 
 
 
+### XSS
+
+[Flask Debugger页面上的通用XSS漏洞分析和挖掘过程记录](http://blog.neargle.com/2016/09/21/flask-src-review-get-a-xss-from-debuger/)
+
+
+
+SQLI
+
+[讨论PythonWeb开发中可能会遇到的安全问题之SQL注入](http://blog.neargle.com/2016/07/22/pythonweb-framework-dev-vulnerable/)
+
 ### 其他
 
 [如何判断目标站点是否为Django开发](https://www.leavesongs.com/PENETRATION/detect-django.html)
@@ -150,6 +162,8 @@ https://www.pytosquatting.org/
 [Pwnhub Web题Classroom题解与分析](https://www.leavesongs.com/PENETRATION/pwnhub-web-classroom-django-sql-injection.html)
 
 [Programming Secure Web Applications in Python](https://www.thoughtco.com/programming-secure-web-applications-2813531)
+
+[Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
 
 
 
