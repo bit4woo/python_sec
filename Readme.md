@@ -97,6 +97,8 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [Django CSRF Bypass (CVE-2016-7401) 漏洞分析](https://paper.seebug.org/58/)
 
+[Django CSRF Bypass 漏洞分析(CVE-2016-7401)](http://blog.knownsec.com/2016/10/django-csrf-bypass_cve-2016-7401/)
+
 [Django的两个url跳转漏洞分析:CVE-2017-7233&7234](https://paper.seebug.org/274/)
 
 [Python 格式化字符串漏洞（Django为例）](https://www.leavesongs.com/PENETRATION/python-string-format-vulnerability.html)
@@ -167,7 +169,7 @@ SQLI
 
 [Hack Redis via Python urllib HTTP Header Injection](https://security.tencent.com/index.php/blog/msg/106)
 
-
+[【技术分享】python web 安全总结](http://bobao.360.cn/learning/detail/4522.html)
 
 ### 安全工具
 
