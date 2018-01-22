@@ -145,9 +145,19 @@ https://www.pytosquatting.org/
 
 
 
-SQLI
+**SQLI**
 
 [讨论PythonWeb开发中可能会遇到的安全问题之SQL注入](http://blog.neargle.com/2016/07/22/pythonweb-framework-dev-vulnerable/)
+
+
+
+**SSTI模版注入**
+
+[Python Security Auditing (II): SSTI](https://www.cdxy.me/?p=738)
+
+[exploring-ssti-in-flask-jinja2](https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/)
+
+[exploring-ssti-in-flask-jinja2-part-ii](https://nvisium.com/blog/2016/03/11/exploring-ssti-in-flask-jinja2-part-ii/)
 
 ### 其他
 
