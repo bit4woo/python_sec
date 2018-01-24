@@ -111,6 +111,8 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [新型任意文件读取漏洞的研究](https://www.leavesongs.com/PENETRATION/arbitrary-files-read-via-static-requests.html)
 
+[django的一些安全问题答案](https://www.kevinlondon.com/2015/10/16/answers-to-django-security-questions.html)
+
 
 
 ### package钓鱼
@@ -145,19 +147,31 @@ https://www.pytosquatting.org/
 
 
 
-**SQLI**
+### SQLI
 
 [讨论PythonWeb开发中可能会遇到的安全问题之SQL注入](http://blog.neargle.com/2016/07/22/pythonweb-framework-dev-vulnerable/)
 
 
 
-**SSTI模版注入**
+### SSTI模版注入
 
 [Python Security Auditing (II): SSTI](https://www.cdxy.me/?p=738)
 
 [exploring-ssti-in-flask-jinja2](https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/)
 
 [exploring-ssti-in-flask-jinja2-part-ii](https://nvisium.com/blog/2016/03/11/exploring-ssti-in-flask-jinja2-part-ii/)
+
+
+
+### python webshell
+
+https://github.com/evilcos/python-webshell
+
+
+
+### paper
+
+Python_Hack_知道创宇_北北(孙博).pdf
 
 ### 其他
 
@@ -180,6 +194,8 @@ https://www.pytosquatting.org/
 [Hack Redis via Python urllib HTTP Header Injection](https://security.tencent.com/index.php/blog/msg/106)
 
 [【技术分享】python web 安全总结](http://bobao.360.cn/learning/detail/4522.html)
+
+
 
 ### 安全工具
 
