@@ -167,7 +167,7 @@ https://www.pytosquatting.org/
 
 https://github.com/evilcos/python-webshell
 
-
+https://github.com/ahhh/Reverse_DNS_Shell
 
 ### paper
 
