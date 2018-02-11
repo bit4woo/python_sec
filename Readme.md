@@ -83,6 +83,8 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [代码审计工具pyt](https://github.com/python-security/pyt)
 
+[xfkxfk的python自动化代码审计](https://mp.weixin.qq.com/s?__biz=MzUxOTYzMzU0NQ==&mid=2247483887&idx=1&sn=99ab12309de75381e37c058d53def1b6&chksm=f9f7ee09ce80671fc5887a9c25350fc610559cc1e095f9b689473873889581e4c5fbb0dec2cd&mpshare=1&) 基于[pyekaboo](https://github.com/SafeBreach-Labs/pyekaboo) 和廖新喜的[pyvulhunter](https://github.com/shengqi158/pyvulhunter)
+
 
 
 ### Django相关
