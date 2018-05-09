@@ -25,6 +25,12 @@
 
 [Python沙箱逃逸的n种姿势](https://xianzhi.aliyun.com/forum/read/2138.html)
 
+[禁用import的情况下绕过python沙箱](https://www.anquanke.com/post/id/107000)
+
+[Escaping the Python Sandbox](https://zolmeister.com/2013/05/escaping-python-sandbox.html)
+
+[Python Sandbox Bypass](https://mp.weixin.qq.com/s?__biz=MzIzOTQ5NjUzOQ==&mid=2247483665&idx=1&sn=4b18de09738fdc5291634db1ca2dd55a)
+
 [Python之数据序列化（json、pickle、shelve）](http://www.cnblogs.com/yyds/p/6563608.html)
 
 [Exploiting Python PIL Module Command Execution Vulnerability](https://xianzhi.aliyun.com/forum/read/2163.html)
