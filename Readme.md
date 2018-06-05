@@ -59,6 +59,8 @@
 
 [PyCodeInjection代码注入实验环境](https://github.com/sethsec/PyCodeInjection)
 
+[Exploiting Python Code Injection in Web Applications](https://sethsec.blogspot.com/2016/11/exploiting-python-code-injection-in-web.html)  （[翻译版](https://www.anquanke.com/post/id/84891)）
+
 
 
 
