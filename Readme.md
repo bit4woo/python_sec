@@ -23,7 +23,7 @@
 	unzip
 
 
-[Python沙箱逃逸的n种姿势](https://xianzhi.aliyun.com/forum/read/2138.html)
+[Python沙箱逃逸的n种姿势](https://xz.aliyun.com/t/52)
 
 [禁用import的情况下绕过python沙箱](https://www.anquanke.com/post/id/107000)
 
@@ -33,13 +33,11 @@
 
 [Python之数据序列化（json、pickle、shelve）](http://www.cnblogs.com/yyds/p/6563608.html)
 
-[Exploiting Python PIL Module Command Execution Vulnerability](https://xianzhi.aliyun.com/forum/read/2163.html)
+[Exploiting Python PIL Module Command Execution Vulnerability](https://xz.aliyun.com/t/44)
 
 [Exploiting Python Code Injection in Web Applications](https://www.doyler.net/security-not-included/exploiting-python-code-injection)
 
 [EXPLOITING PYTHON CODE INJECTION IN WEB APPLICATIONS](http://www.securitynewspaper.com/2016/11/12/exploiting-python-code-injection-web-applications/)
-
-[Exploiting Python Code Injection in Web Applications](https://sethsec.blogspot.jp/2016/11/exploiting-python-code-injection-in-web.html)
 
 [Python eval的常见错误封装及利用原理](http://xxlegend.com/2015/07/31/Python%20eval%E7%9A%84%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF%E5%B0%81%E8%A3%85%E5%8F%8A%E5%88%A9%E7%94%A8%E5%8E%9F%E7%90%86/)
 
@@ -69,11 +67,13 @@
 
 [Python安全编码和代码审计](http://xxlegend.com/2015/07/30/Python%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E5%92%8C%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/)
 
-https://xianzhi.aliyun.com/forum/read/303.html
-https://xianzhi.aliyun.com/forum/read/302.html
-https://xianzhi.aliyun.com/forum/read/301.html
-https://xianzhi.aliyun.com/forum/read/300.html
-https://xianzhi.aliyun.com/forum/read/274.html
+[Python代码审计连载之一：CSRF](https://xz.aliyun.com/t/391) 同  <https://www.cdxy.me/?p=736> 
+
+[Python代码审计连载之二：SSTI](https://xz.aliyun.com/t/390)  同 <https://www.cdxy.me/?p=738> 
+
+[Python代码审计连载之三：Server Side Request](https://xz.aliyun.com/t/389) 同  <https://www.cdxy.me/?p=744> 
+
+[Python代码审计连载之四：Command Execution](https://xz.aliyun.com/t/388) 同  <https://www.cdxy.me/?p=747> 
 
 [Dangerous Python Functions, Part 1](https://www.kevinlondon.com/2015/07/26/dangerous-python-functions.html)
 
@@ -111,7 +111,7 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [Django的两个url跳转漏洞分析:CVE-2017-7233&7234](https://paper.seebug.org/274/)
 
-[Python 格式化字符串漏洞（Django为例）](https://www.leavesongs.com/PENETRATION/python-string-format-vulnerability.html)
+[Python 格式化字符串漏洞（Django为例）](https://www.leavesongs.com/PENETRATION/python-string-format-vulnerability.html) 同 https://xz.aliyun.com/t/288
 
 [Django 安全最佳实践](http://www.atjiang.com/2scoopsdjango1.8-26-security-best-practices/)
 
@@ -147,7 +147,7 @@ https://www.pytosquatting.org/
 
 [Python安全 - 从SSRF到命令执行惨案](https://www.leavesongs.com/PENETRATION/getshell-via-ssrf-and-redis.html)
 
-[Splash SSRF 到获取内网服务器 ROOT 权限](https://xianzhi.aliyun.com/forum/read/1872.html)
+[Splash SSRF 到获取内网服务器 ROOT 权限](https://xz.aliyun.com/t/118)
 
 
 
