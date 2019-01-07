@@ -47,7 +47,11 @@
 
 [掌阅iReader某站Python漏洞挖掘](https://www.leavesongs.com/PENETRATION/zhangyue-python-web-code-execute.html)
 
-[Python Pickle的任意代码执行漏洞实践和Payload构造](http://www.code2sec.com/2017/03/22/python-pickle%E7%9A%84%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%AE%9E%E8%B7%B5%E5%92%8Cpayload%E6%9E%84%E9%80%A0/)
+[Python Pickle的任意代码执行漏洞实践和Payload构造](http://code2sec.com/python-picklede-ren-yi-dai-ma-zhi-xing-lou-dong-shi-jian-he-payloadgou-zao.html)
+
+[django的secret key泄漏导致的命令执行实践](http://code2sec.com/djangode-secret-keyxie-lou-dao-zhi-de-ming-ling-zhi-xing-shi-jian.html)
+
+[Remote Code Execution on a Facebook server](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)
 
 [Python PyYAML反序列化漏洞实验和payload构造](http://www.code2sec.com/2017/09/22/python-pyyaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%AE%9E%E9%AA%8C%E5%92%8Cpayload%E6%9E%84%E9%80%A0/)
 
