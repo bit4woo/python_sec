@@ -63,7 +63,7 @@
 
 [Exploiting Python Code Injection in Web Applications](https://sethsec.blogspot.com/2016/11/exploiting-python-code-injection-in-web.html)  （[翻译版](https://www.anquanke.com/post/id/84891)）
 
-
+[Numpy反序列化命令执行(CVE-2019-6446)浅析](https://www.freebuf.com/vuls/194540.html)
 
 
 
@@ -203,7 +203,9 @@ Python_Hack_知道创宇_北北(孙博).pdf
 
 [Programming Secure Web Applications in Python](https://www.thoughtco.com/programming-secure-web-applications-2813531)
 
-[Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
+[[CVE-2016-5699] HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html) 同 http://www.anquan.us/static/drops/papers-16905.html
+
+[[CVE-2019-9740] Python urllib CRLF injection vulnerability](https://bugs.python.org/issue36276)  同 https://xz.aliyun.com/t/5123
 
 [Hack Redis via Python urllib HTTP Header Injection](https://security.tencent.com/index.php/blog/msg/106)
 
