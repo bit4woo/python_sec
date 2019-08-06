@@ -127,6 +127,8 @@
 
 [django的一些安全问题答案](https://www.kevinlondon.com/2015/10/16/answers-to-django-security-questions.html)
 
+[Django JSONField SQL注入漏洞（CVE-2019-14234）分析与影响](https://www.leavesongs.com/PENETRATION/django-jsonfield-cve-2019-14234.html)
+
 
 
 ### package钓鱼
