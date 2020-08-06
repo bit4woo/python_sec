@@ -139,6 +139,8 @@
 
 https://www.pytosquatting.org/
 
+[PyPI 官方仓库遭遇request恶意包投毒](https://mp.weixin.qq.com/s/dkPdXfGfSK097GI6Ln92lA)
+
 
 
 ### LDAP注入
@@ -167,6 +169,8 @@ https://www.pytosquatting.org/
 
 [讨论PythonWeb开发中可能会遇到的安全问题之SQL注入](http://blog.neargle.com/2016/07/22/pythonweb-framework-dev-vulnerable/)
 
+[Django JSONField SQL注入漏洞（CVE-2019-14234）分析与影响](https://www.leavesongs.com/PENETRATION/django-jsonfield-cve-2019-14234.html)
+
 
 
 ### SSTI模版注入
@@ -185,9 +189,13 @@ https://github.com/evilcos/python-webshell
 
 https://github.com/ahhh/Reverse_DNS_Shell
 
+
+
 ### paper
 
 Python_Hack_知道创宇_北北(孙博).pdf
+
+
 
 ### 其他
 
